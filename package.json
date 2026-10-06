@@ -1,0 +1,8 @@
+{
+  "name": "renderdoc-mesh-exporter-viewer",
+  "version": "0.2.2",
+  "private": true,
+  "type": "module",
+  "scripts": {"build": "node build_viewer.mjs", "test:browser": "node tests/test_browser.cjs"},
+  "devDependencies": {"three": "0.186.1", "esbuild": "0.28.2", "playwright-core": "1.63.0"}
+}

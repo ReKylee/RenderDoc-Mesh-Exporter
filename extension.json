@@ -1,0 +1,9 @@
+{
+  "extension_api": 1,
+  "name": "Mesh Exporter",
+  "version": "0.2.2",
+  "minimum_renderdoc": "1.46",
+  "description": "Export source meshes, UVs and grouped textures from RenderDoc captures. Includes a textured Three.js viewer with filesystem-backed folders, multi-select, drag/drop and rename support, plus a dynamic Xenia DXBC adapter.",
+  "author": "ReKylee",
+  "url": "https://github.com/ReKylee/RenderDoc-Mesh-Exporter"
+}
